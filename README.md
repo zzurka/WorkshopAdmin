@@ -1,2 +1,2 @@
 # WorkshopAdmin
-Workshop administration application
+Workshop administration application...
